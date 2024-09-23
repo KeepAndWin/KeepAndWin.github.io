@@ -10,10 +10,6 @@ tags:
 ---
 Recently, we've seen a surge in AI-powered coding assistants based on large language models. From the pioneering GitHub Copilot and Tabnine to the now-trending Cursor, who truly reigns supreme in the realm of code assistance? I'd like to share my recent experiences to give you an initial understanding of these tools (purely based on my personal insights).
 
-# Copilot, Cursor, and Tongyi Lingma: Who's Your Ultimate Coding Assistant?
-
-Recently, we've seen a surge in AI-powered coding assistants based on large language models. From the pioneering GitHub Copilot and Tabnine to the now-trending Cursor, who truly reigns supreme in the realm of code assistance? I'd like to share my recent experiences to give you an initial understanding of these tools (purely based on my personal insights).
-
 ## Tools Covered in This Article:
 
 - GitHub Copilot
