@@ -1,5 +1,5 @@
 ---
-title: 'Copilot, Cursor, and Tongyi Lingma: Who's Your Ultimate Coding Assistant?'
+title: "Copilot, Cursor, and Tongyi Lingma: Who's Your Ultimate Coding Assistant?"
 date: 2024-09-22
 permalink: /posts/2024/09/blog-post-1/
 tags:
