@@ -1,14 +1,13 @@
 ---
 title: 'Copilot, Cursor, and Tongyi Lingma: Who's Your Ultimate Coding Assistant?'
 date: 2024-09-22
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2024/09/blog-post-1/
 tags:
+  - AI
   - IDE
   - LLM
   - Copilot
-
 ---
-
 Recently, we've seen a surge in AI-powered coding assistants based on large language models. From the pioneering GitHub Copilot and Tabnine to the now-trending Cursor, who truly reigns supreme in the realm of code assistance? I'd like to share my recent experiences to give you an initial understanding of these tools (purely based on my personal insights).
 
 ## Tools Covered in This Article:
@@ -43,11 +42,13 @@ A quick note on Tongyi Lingma: As a recently launched plugin-level product, its 
 ![Continue](https://i-blog.csdnimg.cn/direct/1cf0ae2aee934f8180398f05d1815163.png#pic_center)
 
 This extension supports users in code development assistance through methods such as:
+
 1. Closed-source LLM API keys
 2. Locally deployed LLMs via [LM Studio](https://lmstudio.ai/)
 3. Locally deployed LLMs via [OLlama](https://ollama.com/)
 
 Similar to GitHub Copilot, it supports:
+
 - File and code snippet selection
 - Chat interface based on selectable models
 - Prompt-based code editing and **automatic debugging** using **selectable models**
@@ -70,6 +71,7 @@ Cursor has been gaining immense popularity lately. Like many others, I was initi
 But after actually experiencing it, I must say it's quite impressive:
 
 First, let's address why Cursor developed its own IDE. As I mentioned at the beginning, the main reason is:
+
 - **It has already shifted code assistance from snippet-level and file-level to project-level**
 
 Here are the most valuable points I've discovered so far:

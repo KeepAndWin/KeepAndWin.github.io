@@ -12,7 +12,7 @@ title                    : "Zexi Jia"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://keepandwin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://keepandwin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KeepAndWin/keepandwin.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Zeron"
   pronouns         : "he/him"
   bio              : "Talk is cheap. Show me the code."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zxjia2002@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
