@@ -1,5 +1,5 @@
 ---
-title: 'AICodeAssist Post'
+title: 'Copilot, Cursor, and Tongyi Lingma: Who's Your Ultimate Coding Assistant?'
 date: 2024-09-22
 permalink: /posts/2024/09/blog-post-1/
 tags:
@@ -12,7 +12,7 @@ Recently, we've seen a surge in AI-powered coding assistants based on large lang
 
 # Copilot, Cursor, and Tongyi Lingma: Who's Your Ultimate Coding Assistant?
 
-![aicodeassist (4)](post_images/aicodeassist (4).png)
+    ![1727099556814](image/2024-09-22-AICodeAssist/1727099556814.png)
 
 Recently, we've seen a surge in AI-powered coding assistants based on large language models. From the pioneering GitHub Copilot and Tabnine to the now-trending Cursor, who truly reigns supreme in the realm of code assistance? I'd like to share my recent experiences to give you an initial understanding of these tools (purely based on my personal insights).
 
@@ -33,7 +33,7 @@ If that sounds a bit vague, let me break down their features and differences wit
 
 ### [GitHub Copilot](https://github.com/features/copilot):
 
-![aicodeassist (2)](post_images/aicodeassist (2).png)
+![1727099674620](image/2024-09-22-AICodeAssist/1727099674620.png)
 
 GitHub Copilot was one of the earliest tools in this field to catch public attention. Trained on high-quality code samples supported by GitHub and initially offering free use for Education accounts, it attracted a large user base. It's quite competent in code understanding and overall project architectural concepts. However, as it remains a plugin, I believe its main drawbacks are:
 
@@ -45,7 +45,7 @@ A quick note on Tongyi Lingma: As a recently launched plugin-level product, its 
 
 ### [Continue](https://www.continue.dev/) Extension:
 
-![aicodeassist (1)](post_images/aicodeassist (1).png)
+![1727099685151](image/2024-09-22-AICodeAssist/1727099685151.png)
 
 This extension supports users in code development assistance through methods such as:
 
@@ -68,7 +68,7 @@ However, its most noteworthy feature is that when using locally deployed LLMs fo
 
 ### [Cursor](https://www.cursor.com/):
 
-![aicodeassist (3)](post_images/aicodeassist (3).png)
+![1727099694653](image/2024-09-22-AICodeAssist/1727099694653.png)
 
 Cursor has been gaining immense popularity lately. Like many others, I was initially skeptical.
 
